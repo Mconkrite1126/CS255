@@ -1,1 +1,10 @@
-# CS255
+# CS255 # Driverpass Reflection
+The DriverPass project was about designing a system for a company that wanted to help students prepare for their driving tests. The client wanted a system where customers could create accounts, take online practice tests and training, schedule driving lessons, and manage their appointments. The system also needed to give employees different levels of access depending on their roles.
+
+I think one thing I did well was taking the different requirements and figuring out how they connected to the system. As I worked through the diagrams and documents, I started to understand better how something the client asks for eventually becomes an actual part of the system design.
+
+If I could revise one part of my work, I would improve some of my diagrams. This was one of the areas I struggled with at first, especially figuring out how much information needed to be included and how everything should connect. After working with UML diagrams more throughout the course, I have a better understanding of how I could make them clearer and more organized.
+
+When I interpreted the user's needs, I tried to look at the system from the point of view of the people who would actually be using it. A customer needs the system to be simple enough to schedule lessons, take practice tests, and manage their account without getting confused. Employees and administrators have different needs and responsibilities, so their access to the system also needs to reflect that. Considering the user's needs is important because even if a system technically works, it will not be very useful if people have trouble using it.
+
+My approach to designing software is to first understand what the client is actually asking for before trying to design the solution. I would break the requirements into smaller pieces, identify the users and what each user needs to do, and then use diagrams and models to see how those pieces work together. In the future, I would continue using techniques such as use cases, UML diagrams, requirements analysis, and getting feedback throughout the design process.
